@@ -2,7 +2,7 @@
 name: Feature request
 about: Proposition d'amélioration et idées
 title: "[FEATURE]"
-labels: enhancement
+labels: enhancement, IN EVALUATION
 assignees: llienher
 type: Feature
 

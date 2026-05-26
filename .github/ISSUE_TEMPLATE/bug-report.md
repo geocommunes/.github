@@ -2,7 +2,7 @@
 name: Bug report
 about: Problème ou rapport d'erreurs, à corriger
 title: "[BUG]"
-labels: bug
+labels: bug, IN EVALUATION
 assignees: llienher
 type: Bug
 

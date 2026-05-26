@@ -1,5 +1,5 @@
 ---
-name: Rapport de bug
+name: Bug report
 about: Problème ou rapport d'erreurs, à corriger
 title: "[BUG]"
 labels: bug

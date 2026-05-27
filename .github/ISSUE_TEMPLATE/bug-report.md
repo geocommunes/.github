@@ -2,38 +2,34 @@
 name: Bug report
 about: Problème ou rapport d'erreurs, à corriger
 title: "[BUG]"
-labels: bug, IN EVALUATION
+labels: bug
 assignees: llienher
 type: Bug
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Décrivez le bug**
+Une description claire et concise du bug.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Pour reproduire le bug**
+Étapes pour reproduire le problème :
+1. Allez dans « ... »
+2. Cliquez sur « ... »
+3. Faites défiler vers le bas jusqu'à « ... »
+4. Une erreur s'affiche
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportement attendu**
+Une description claire et concise de ce que vous vous attendiez à voir.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Captures d'écran**
+Si possible, ajoutez des captures d'écran pour aider à expliquer votre problème.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Information système :**
+ - Système d'exploitation : [par ex. Windows, Ubuntu, Debian, etc]
+ - Version de python, etc
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Contexte supplémentaire**
+Ajoutez ici tout autre élément de contexte concernant le problème.
 
-**Additional context**
-Add any other context about the problem here.
+**Estimation (à remplir plus tard)**
+Estimation en heure, pour la tâche après évaluation
